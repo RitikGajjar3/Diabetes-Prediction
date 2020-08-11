@@ -20,7 +20,7 @@
 
 <h2>📘 Problem Ovverview:</h2>
 
-# Machine Learning in Health
+### Machine Learning in Health
 
 - Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
 
@@ -30,12 +30,14 @@
 
 - Our task is to predict whether a person is suffering from diabetes or not (Binary Classification)
 
+<br>
+
 <h2>📦 Data Overview</h2>
 In this problem you are given a Diabetes Data set consisting of following features -
 
 ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
 
-
+<br>
 
 ### ✅  Requirements
 
@@ -53,17 +55,23 @@ Jupyter notebook (IPython)
 2. Clone your copy on your local system
 3. Install necessary packages
 
+<br>
+
 ## 📚 Reference
 ```python
 Image("https://www.diabetes.co.uk/diabetes-causes.html")
 
 ```
 
+<br>
+
 ## 📜 License
 
 This software is licensed under the [MIT](https://github.com/RitikGajjar3/Diabetes-Prediction/blob/master/LICENSE)
 
 MIT © RitikGajjar3
+
+<br>
 
 ## 🤝 Contact
 
