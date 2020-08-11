@@ -1,5 +1,3 @@
-We’ll be using Machine Learning to predict whether a person has diabetes or not, based on information about the patient such as blood pressure, body mass index (BMI), age, etc.
-
 # <p align="center">Diabetes-Prediction</p>
 
 <p align="center">
@@ -21,6 +19,7 @@ We’ll be using Machine Learning to predict whether a person has diabetes or no
 </p>
 
 <h2>📘 Problem Ovverview:</h2>
+
 # Machine Learning in Health
 
 - Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
