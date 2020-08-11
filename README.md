@@ -17,18 +17,19 @@ We’ll be using Machine Learning to predict whether a person has diabetes or no
 </p>
 
 <p align="center">
-  <img width="600" height="350" src="https://www.diabetes.co.uk/diabetes-causes.html">
+  <img width="600" height="350" src="https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png">
 </p>
 
 <h2>📘 Problem Ovverview:</h2>
 # Machine Learning in Health
+
 - Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
 
-Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease.
+- Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease.
 
-Different kinds of diabetes can occur, and managing the condition depends on the type. Not all forms of diabetes stem from a person being overweight or leading an inactive lifestyle. In fact, some are present from childhood.
+- Different kinds of diabetes can occur, and managing the condition depends on the type. Not all forms of diabetes stem from a person being overweight or leading an inactive lifestyle. In fact, some are present from childhood.
 
-Our task is to predict whether a person is suffering from diabetes or not (Binary Classification)
+- Our task is to predict whether a person is suffering from diabetes or not (Binary Classification)
 
 <h2>📦 Data Overview</h2>
 In this problem you are given a Diabetes Data set consisting of following features -
